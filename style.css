@@ -1,8 +1,11 @@
 body {
   text-align: center;
-  background-image: linear-gradient(62deg, grey, white);
+  background-image: linear-gradient(62deg, white, grey,);
   font-family: 'Charm', cursive;
   font-size: 24px;
+  color: hsl(210,20%,80%);
+}
+#projectline {
   color: hsl(210,20%,20%);
 }
 #welcome-section {
@@ -53,7 +56,7 @@ h2 {
   flex-direction: column;
   align-items: center;
   justify-content: space-between;
-  background-color: hsl(0,80%,30%);
+  background-color: hsl(210,20%,20%);
   width: 300px;
   height: 300px;
   margin: 20px;
@@ -61,7 +64,7 @@ h2 {
   padding-bottom: 35px;
 }
 .project-tile:hover {
-  border: 5px hsl(300, 100%, 0%) solid;
+  border: 5px hsl(210, 20%, 20%) solid;
 }
 .fa {
   margin: 15px;
