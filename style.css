@@ -112,4 +112,18 @@ img {
 a {
   color: hsl(210,20%,80%);
 }
-
+@media (min-width: 800px) {
+  h1 {
+    font-size: 78px;
+    font-family: forte;
+  }
+  h2 {
+    font-size: 56px;
+    font-family: monotype corsiva;
+  }
+}
+@media (min-width: 670px) {
+  #contactme {
+    height: 500px;
+  }
+}
