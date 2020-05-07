@@ -127,3 +127,14 @@ a {
     height: 500px;
   }
 }
+@media (max-width: 370px) {
+  #logo {
+    width: 80%;
+  }
+  #navbar {
+    display: none;
+  }
+  #contactme {
+    height: 600px; 
+  }
+}
