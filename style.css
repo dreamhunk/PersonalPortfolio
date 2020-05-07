@@ -112,14 +112,6 @@ img {
 a {
   color: hsl(210,20%,80%);
 }
-@media (max-width: 370px) {
-  #navbar{
-    display: none;
-  }
-  #logo{
-   width: 100%;
-  }
-}
 @media (min-width: 800px) {
   h1 {
     font-size: 78px;
