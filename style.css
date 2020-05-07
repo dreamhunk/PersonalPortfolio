@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  background-image: linear-gradient(62deg, hsl(210,20%,80%), hsl(210,10%,70%),);
+  background-color: hsl(210,20%,80%);
   font-family: 'Charm', cursive;
   font-size: 24px;
   color: hsl(210,20%,80%);
