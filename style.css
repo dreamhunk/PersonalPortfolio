@@ -2,7 +2,7 @@ body {
   text-align: center;
   background-color: hsl(210,80%,30%);
   background-image: linear-gradient(62deg, hsl(180,80%,30%) 0%, hsl(240,80%,30%) 100%);
-  font-family: cursive, monospace;
+  font-family: 'Charm', cursive;
   font-size: 24px;
   color: hsl(210,20%,80%);
 }
@@ -44,11 +44,11 @@ body {
 }
 h1 {
   font-size: 10vw;
-  font-family: forte, monospace;
+  font-family: 'Chango', cursive;
 }
 h2 {
   font-size: 7vw;
-  font-family: monotype corsiva, monospace;
+  font-family: 'Damion', cursive;
   margin-top: 0px;
 }
 .project-tile {
@@ -95,7 +95,7 @@ h2 {
 }
 h3 {
   font-size: 30px;
-  font-family: monotype corsiva, monospace;
+  font-family: 'Damion', cursive;
 }
 #profile-pic {
   border-radius: 50%;
@@ -123,11 +123,11 @@ a {
 @media (min-width: 800px) {
   h1 {
     font-size: 78px;
-    font-family: forte;
+    font-family: 'Chango', cursive;
   }
   h2 {
     font-size: 56px;
-    font-family: monotype corsiva;
+    font-family: 'Damion', cursive;
   }
 }
 @media (min-width: 670px) {
